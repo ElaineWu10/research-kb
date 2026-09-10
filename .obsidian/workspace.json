@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Ideas/后续可探索研究方向.md",
+                "file": "PIPSL/Ideas/面向PIPSL的光滑分组平行分解方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "后续可探索研究方向"
+              "title": "面向PIPSL的光滑分组平行分解方法"
             }
           }
         ]
@@ -202,11 +202,11 @@
   },
   "active": "0752527c69bac16a",
   "lastOpenFiles": [
+    "Inbox/Ideas/后续可探索研究方向.md",
     "PIPSL/Ideas/面向PIPSL的光滑分组平行分解方法.md",
     "PIPSL/Ideas",
     "PIPSL",
     "Inbox/action测试.md",
-    "Inbox/Ideas/后续可探索研究方向.md",
     "Inbox/Ideas",
     "EvoPINN/EvoPINN+GPD/面向EvoPINN的探索反馈式分组平行分解机制.md",
     "PINN.md",
